@@ -1,12 +1,12 @@
-**"Comparative Analysis of Recurrent Neural Networks with Conjoint Fingerprints for Skin Corrosion Prediction"**
+ # Comparative Analysis of Recurrent Neural Networks with Conjoint Fingerprints for Skin Corrosion Prediction
 
 ![Abstract Graphic](graphic_abstract.jpg)
 
-**Tarapong Srisongkram** (tarasri@kku.ac.th)
+#### Tarapong Srisongkram (tarasri@kku.ac.th)
 
 Division of Pharmaceutical Chemistry, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand.
 
-**Huynh Anh Duy** (huynhanhduy.h@kkumail.com; haduy@ctu.edu.vn)
+#### Huynh Anh Duy (huynhanhduy.h@kkumail.com; haduy@ctu.edu.vn)
 
 Graduate School in the Program of Research and Development in Pharmaceuticals, Pharmaceutical Sciences, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand.
 
@@ -14,7 +14,7 @@ Department of Health Sciences, College of Natural Sciences, Can Tho University, 
 
 Read full paper published in **Journal of Chemical Information and Modeling**.
 
-**MIT License**
+#### MIT License
 
 Copyright (c) [2025] [Dr.Tarapong Srisongram]
 
