@@ -2,15 +2,11 @@
 
 ![Abstract Graphic](graphic_abstract.jpg)
 
-#### Tarapong Srisongkram (tarasri@kku.ac.th)
+#### Huynh Anh Duy*, Tarapong Srisongkram** 
 
-Division of Pharmaceutical Chemistry, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand.
+*Graduate School in the Program of Research and Development in Pharmaceuticals, Pharmaceutical Sciences, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand. (huynhanhduy.h@kkumail.com; haduy@ctu.edu.vn)
 
-#### Huynh Anh Duy (huynhanhduy.h@kkumail.com; haduy@ctu.edu.vn)
-
-Graduate School in the Program of Research and Development in Pharmaceuticals, Pharmaceutical Sciences, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand.
-
-Department of Health Sciences, College of Natural Sciences, Can Tho University, Vietnam.
+**Division of Pharmaceutical Chemistry, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand. (tarasri@kku.ac.th)
 
 Read full paper published in **Journal of Chemical Information and Modeling**.
 
