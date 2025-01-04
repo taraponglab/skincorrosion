@@ -1,6 +1,6 @@
  # Comparative Analysis of Recurrent Neural Networks with Conjoint Fingerprints for Skin Corrosion Prediction
 
-![Abstract Graphic](graphic_abstract.png)
+![Abstract Graphic](corrosion_graphic.png)
 
 #### Huynh Anh Duy*, Tarapong Srisongkram** 
 
