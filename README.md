@@ -1,6 +1,6 @@
 **"Comparative Analysis of Recurrent Neural Networks with Conjoint Fingerprints for Skin Corrosion Prediction"**
 
-![Abstract Graphic](skincorrosion/graphic_abstract.jpg)
+![Abstract Graphic](graphic_abstract.jpg)
 
 **Tarapong Srisongkram** (tarasri@kku.ac.th)
 
