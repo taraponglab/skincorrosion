@@ -10,7 +10,7 @@ Division of Pharmaceutical Chemistry, Faculty of Pharmaceutical Sciences, Khon K
 
 Graduate School in the Program of Research and Development in Pharmaceuticals, Pharmaceutical Sciences, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand.
 
-Department of Health Sciences, College of Natural Science, Can Tho University, Vietnam.
+Department of Health Sciences, College of Natural Sciences, Can Tho University, Vietnam.
 
 Read full paper published in **Journal of Chemical Information and Modeling**.
 
