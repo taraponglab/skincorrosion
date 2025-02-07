@@ -8,7 +8,7 @@
 
 **Division of Pharmaceutical Chemistry, Faculty of Pharmaceutical Sciences, Khon Kaen University, Thailand. (tarasri@kku.ac.th)
 
-Read full paper published in **Journal of Chemical Information and Modeling**.
+Read full paper published in **Journal of Chemical Information and Modeling (Published by American Chemical Society)**.
 
 The Article is available free of charge at: https://pubs.acs.org/doi/10.1021/acs.jcim.4c02062
 
